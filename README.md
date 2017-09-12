@@ -9,5 +9,7 @@ demo how to use github
 #### 0424075 王柏仕
 ##### 0424075 王柏仕
 ###### 0424075 王柏仕
-####### [超聯結](https://www.google.com.tw/)
-######## ![圖片](http://pic.pimg.tw/bigpawbasset/1383953286-158019760.jpg)
+----------------
+![圖片](http://pic.pimg.tw/bigpawbasset/1383953286-158019760.jpg)
+--------------
+[Google](https://www.google.com.tw/)
